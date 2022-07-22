@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Credential","Wraps the kernel’s `struct cred`."]]});
